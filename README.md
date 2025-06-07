@@ -4,7 +4,7 @@ Welkom bij de repository voor het monitoring- en autoscalingproject van Fonteyn 
 Deze repository bevat Python-scripts voor het automatisch aansturen van containers op basis van netwerkactiviteit en het aanmaken van incidenttickets bij overschrijding van CPU- of RAM-drempels.
 
  **Meer informatie?**
-Bekijk de uitgebreide uitleg, architectuur, .env-sjablonen en configuratie-instructies in de **[Wiki](wiki/home)**.
+Bekijk de uitgebreide uitleg, architectuur, .env-sjablonen en configuratie-instructies in de **[Wiki](../../wiki)**.
 
 ---
 
